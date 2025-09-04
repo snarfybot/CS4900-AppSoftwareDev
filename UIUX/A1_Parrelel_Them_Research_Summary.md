@@ -1,8 +1,11 @@
 ### **Assignment 1 \- Parallel Theme Research Summary**
 
+**Deadline** 
+Submit to Github before class on Monday September 8th
+
 **Purpose / Objectives**
 
-* Practice with competitive and comparative analysis
+* Practice with competitive analysis
 
 * Reinforce early-stage UX research skills
 
@@ -11,7 +14,7 @@
 **Description**  
  Perform the following tasks in your course homework repository:
 
-* Choose 2 apps or websites similar to your group app idea
+* Choose 2 apps or websites similar to your app idea
 
 * Research features, user flows, UI patterns, and standout design elements
 
@@ -24,13 +27,13 @@
   * Slide 3: UI/UX highlight (what made the experience memorable or usable)
 
 **DURING CLASS**  
- You will present your findings briefly and discuss them as a class.
+ You will present your findings briefly and discuss them in groups.
 
 **Deliverable(s)**
 
 * 3-slide deck (PDF or shared slide link)
 
-* Submit to your course homework repository
+* Submit to your course homework repository before class on Monday September 8th
 
 **Rubric**  
  Assignment score: X / 5 points
