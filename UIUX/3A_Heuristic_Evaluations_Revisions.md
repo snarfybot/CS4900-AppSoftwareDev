@@ -9,7 +9,7 @@
 **Description**  
  Perform the following tasks in your course homework repository:
 
-* Use the heuristic evaluation checklist from class to evaluate your team’s wireframes
+* Use the heuristics covered in class to evaluate your team’s wireframes.
 
 * Identify at least 3 issues and propose how to fix them
 
@@ -26,18 +26,18 @@ You’ll give and receive feedback on your wireframes using heuristics in pairs.
 
 * Markdown file with changes listed
 
-* Completed heuristic evaluation checklist (PDF or scan)
+* Completed heuristic evaluation using the heuristics covered in class.
 
 **Rubric**  
  Assignment score: X / 5 points
 
-- [ ] Evaluation completed using heuristics
+- [ ] Evaluation completed using heuristics covered in class (1, 2, 4, 6, 8)
 
 - [ ] 2+ clear improvements made
 
 - [ ] Description of design decisions
 
-- [ ] Updated wireframes reflect changes
+- [ ] Updated wireframes reflect changes in Figma.
 
 - [ ] All files uploaded correctly
 
