@@ -10,6 +10,8 @@
 
 Perform the following tasks in your course homework repository OR by leaving comments in your Figma page:
 
+*Use this template: **https://www.figma.com/design/sKgFr1Zs6TVxSfKCrX3sZ3/Style-Guide-Template?node-id=0-1&p=f&t=Mw9fz6yyCmbQMU44-0 **
+
 * In Figma, create a mini brand guide that includes:
 
   * 2–3 color swatches with hex codes
