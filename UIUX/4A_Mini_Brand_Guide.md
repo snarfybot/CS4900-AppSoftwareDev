@@ -10,27 +10,41 @@
 
 Perform the following tasks in your course homework repository OR by leaving comments in your Figma page:
 
-* In Figma, create a mini brand guide that includes:
+* In Figma, use the template to decide on these aspects of your design:
 
-  * 2–3 color swatches with hex codes
-  * 1–2 font selections for headings and body text
-  * A wordmark or basic symbol/logo idea
+  * 1-2 primary colors
+  * 4 Accent Colors
+  * 4 gray or nuetral colors
+  * H1 - H5 fonts
+  * Body and inline link fonts
+  * A primary, secondary button, and inline button
+
+Optional but recommended
+  * Iconography - https://fonts.google.com/icons - You can customize the icons to fit your style.
+  * Wordmark
   * Notes on tone or personality (1–2 bullet points)
 
-* Export as PDF to your course homeowrk repository make sure all items are visible in our Figma educational team workspace
+* Export as PDF/JPEG/ECT using Figma to your course homework repository 
 
 **Deliverable(s)**
 
-* Brand guide PDF or Figma link
+* Brand guide PDF 
 
-* Markdown file linking or attaching the guide
+* Link to your Figma frame
 
 **Rubric**  
  Assignment score: X / 5 points
 
-* [ ] Color palette selected and documented
-* [ ] Fonts selected and labeled
-* [ ] Logo/wordmark idea included
-* [ ] Tone/personality noted
-* [ ] File uploaded in the correct format
+ Figma templated has:
+
+* [ ] 1-2 Primary colors selected
+* [ ] 4 accent colors
+* [ ] 4 gray or nuetral colors
+* [ ] H1 - H5, body, and inline fonts
+* [ ] Primary, secondary, and inline button
+
+Bonus
+* [ ] Iconography
+* [ ] Wordmark
+* [ ] Notes on personality (1-2 bullet points)
 
